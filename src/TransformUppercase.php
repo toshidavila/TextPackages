@@ -3,7 +3,7 @@ namespace PackageToshi;
 /**
  *
  */
-class TransformText
+class PackageToshi
 {
     function __construct($text)
     {
