@@ -1,9 +1,9 @@
 <?php
-namespace PackageToshi;
+namespace TransformUppercase;
 /**
  *
  */
-class PackageToshi
+class TransformUppercase
 {
     public function setUpperText($text)
     {
