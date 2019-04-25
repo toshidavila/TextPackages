@@ -14,5 +14,11 @@
             "TransformUppercase\\": "src/"
         }
     },
+    "repositories": [
+        {
+          "type":"composer",
+          "url":"https://www.myget.org/F/newproject/composer"
+        }
+    ],
     "require": {}
 }
