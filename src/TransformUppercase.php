@@ -1,7 +1,7 @@
 <?php
 namespace TransformUppercase;
 /**
- * change your text
+ * change your text to anything
  */
 class TransformUppercase
 {
